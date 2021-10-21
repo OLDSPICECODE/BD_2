@@ -68,10 +68,6 @@ La funcion tiene que identificar las palabras clave y separarlo en parte y manda
 Tiempo maximo para entregar: Domingo 24 de octubre.
 Calidad del trabajo: Lo mas optimo posible lo suficiente como para  implementar arboles B+
 
-```
-Da un ejemplo
-```
-
 ### Estilo de codificación ⌨️
 
 Usar clases y .h para mejorar nuestro orden y facilitar el merge entre los forks que van a crear
